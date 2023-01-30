@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fname": "Leanne",
+    "lname": "Graham",
+    "number": 1234567890,
+    "email": "Sincere@april.biz"
+  },
+  {
+    "id": 2,
+    "fname": "Lucas",
+    "lname": "Grahambel",
+    "number": 1234567891,
+    "email": "Shanna@melissa.tv"
+  },
+  {
+    "id": 3,
+    "fname": "Clementine",
+    "lname": " Bauch",
+    "number": 1234567892,
+    "email": "Nathan@yesenia.net"
+  },
+  {
+    "id": 4,
+    "fname": "Patricia ",
+    "lname": "Lebsack",
+    "number": 1234567893,
+    "email": "Julianne.OConner@kory.org"
+  },
+  {
+    "id": 5,
+    "fname": "Chelsey",
+    "lname": "Dietrichk",
+    "number": 1234567894,
+    "email": "Lucio_Hettinger@annie.ca"
+  },
+  {
+    "id": 6,
+    "fname": "Dennis",
+    "lname": " Schulist",
+    "number": 1234567895,
+    "email": "Karley_Dach@jasper.info"
+  }
+]
